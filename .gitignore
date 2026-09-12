@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets & model artifacts (torchvision/FashionMNIST 等)
+# 无前导斜杠 = 匹配任意层级的 data 目录，且只匹配目录不误伤 data.py 等文件
+data/

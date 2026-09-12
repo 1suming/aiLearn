@@ -1,0 +1,10 @@
+
+
+# bigmodel
+
+coding plan
+openapi format:
+https://open.bigmodel.cn/api/coding/paas/v4
+
+anthropoic:
+https://open.bigmodel.cn/api/anthropic
